@@ -22,13 +22,13 @@ repository               : "tarmiziizzuddin/tarmiziizzuddin.github.io"
 author:
   # Biographic information
   avatar           : "passport_image.jpg"
-  name             : #"Tarmizi Izzuddin"
+  name             : "Tarmizi Bin Ahmad Izzuddin"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : "UTeM" 
+  bio              : "Senior Lecturer at UTeM"
+  location         : "Melaka, Malaysia"
+  employer         : "Universiti Teknikal Malaysia Melaka (UTeM)" 
   uri              : # URL
-  email            : "tarmizi@utem.edu.my" 
+  email            : "tarmizi@utem.edu.my"  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

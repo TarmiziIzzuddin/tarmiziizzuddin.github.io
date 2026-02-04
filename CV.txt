@@ -1,0 +1,352 @@
+UNIVERSITI TEKNIKAL MALAYSIA MELAKA
+Kurikulum Vitae
+Curriculum Vitae .
+I. Maklumat Peribadi:
+Personal Particulars
+Nama: TARMIZI BIN AHMAD IZZUDDIN
+Name:
+Jawatan Sekarang: SENIOR LECTURER
+Current Position:
+Gred Kumpulan: DS 13
+Gred position
+ Tarikh Pengemaskinian CV: 7th November 2025
+ Date of CV updated:
+II. A. Kelulusan Akademik dan Profesional (Sila senaraikan semua kelulusan akademik bermula daripada
+Ijazah Sarjana Muda mengikut susunan kronologi)
+Academic and Professional Qualifications (Please list all academic qualifications, from your first degree
+in chronological order)
+Year Degree Discipline University/Organization
+2008 Associate Degree (Diploma
+equivalent)
+Electronic Control System
+Engineering
+Kumamoto National College of
+Technology, KNCT (Japan)
+2010
+Bsc, & Eng. Electronic Control System
+Engineering Shimane University (Japan)
+2012 M.Eng Industrial Electronic and
+Control University Malaya (UM)
+2021
+Ph.D Electrical Engineering Universiti Teknologi Malaysia
+(UTM)
+B. Tajuk tesis pasca siswazah (Sila senaraikan semua tesis bermula daripada peringkat Sarjana
+mengikut susunan kronologi)
+Titles of postgraduate thesis written (Please list all thesis written, from your Master Degree in chronological
+order)
+i. Field Oriented Control (Vector Control) For AC Induction Motor Drive Using State
+Feedback Linearization Method. (Master of Engineering)
+ii. Compact and Interpretable Convolutional Neural Network Architecture for
+Electroencephalogram Based Motor Imagery Decoding (PhD)
+COPTPA Document
+2
+C. Pengalaman Kerja (Sila senaraikan pengalaman kerja mengikut susunan kronologi)
+Working Experiences (Please list all your previous working experiences in chronological order)
+
+i. 2012 - Current: Lecturer (Department of Mechatronics Engineering)
+o Universiti Teknikal Malaysia Melaka (UTeM)
+o Duties:
+ Engineering course delivery
+ Undergraduate students project supervision
+ Postgraduate student project supervision
+ Various academic administrative duties
+o Supervisor: Faculty dean
+ii. 2023 - 2024 : Industrial Project Researcher (Attachment)
+o OnSemi Sdn. Bhd.
+o Project Title: Predictive Modelling Using AI for SiC Solder Interface at Packaging Level
+o Duties: Develop image segmentation algorithm to detect solder void and defects for xray images using deep learning techniques.
+D. Pengajaran dan Pembelajaran (Sila senaraikan subjek-subjek yang pernah diajar)
+Teaching and Learning (Please list the subjects you have taught in the past)
+Listed 5 years back
+1-2020/2021 DEKC1113 - PRINCIPLES OF INSTRUMENTATION & MEASUREMENT
+2-2020/2021 BEKB1231 - ENGINEERING PRACTICE II
+2-2020/2021 BEKC3543 - MICROPROCESSOR
+3-2020/2021 BEKC3543 - MICROPROCESSOR
+1-2021/2022 BEKC2421 - CONTROL SYSTEM ENGINEERING LABORATORY
+1-2021/2022 BEKC4873 - ARTIFICIAL INTELLIGENCE
+1-2021/2022 BEKU1231 - ELECTRIC & ELECTRONICS ENGINEERING LABORATORY
+2-2021/2022 BEKB1231 - ENGINEERING PRACTICE II
+2-2021/2022 BEKC3543 - MICROPROCESSOR
+2-2021/2022 BEKM3641 - MECHATRONICS ENGINEERING LABORATORY 1
+1-2022/2023 BEKC2421 - CONTROL SYSTEM ENGINEERING LABORATORY
+1-2022/2023 BEKC4873 - ARTIFICIAL INTELLIGENCE
+1-2022/2023 BEKU4792 - FINAL YEAR PROJECT I
+2-2022/2023 BEKC3543 - MICROPROCESSOR
+2-2022/2023 BEKM3641 - MECHATRONICS ENGINEERING LABORATORY 1
+2-2022/2023 BEKU4894 - FINAL YEAR PROJECT II
+1-2023/2024 BEKC4873 - ARTIFICIAL INTELLIGENCE
+1-2023/2024 BEKM4751 - MECHATRONICS ENGINEERING LABORATORY II
+1-2023/2024 BEKU4792 - FINAL YEAR PROJECT I
+2-2023/2024 BELC3543 - MICROPROCESSOR
+2-2023/2024 BELM3641 - MECHATRONICS ENGINEERING LABORATORY 1
+2-2023/2024 BELU4894 - FINAL YEAR PROJECT II
+3-2023/2024 BELC3543 - MICROPROCESSOR
+1-2024/2025 BELC4873 - ARTIFICIAL INTELLIGENCE
+1-2024/2025 BELU4792 - FINAL YEAR PROJECT I
+COPTPA Document
+3
+2-2024/2025 BELC2342 - INTRODUCTION TO EMBEDDED SYSTEM
+2-2024/2025 BELM3641 - MECHATRONICS ENGINEERING LABORATORY 1
+2-2024/2025 BELU4894 - FINAL YEAR PROJECT II
+1-2025/2026 BAXI1113 - ARTIFICIAL INTELLIGENCE
+1-2025/2026 BELC4873 - ARTIFICIAL INTELLIGENCE
+1-2025/2026 BITI1113 - ARTIFICIAL INTELLIGENCE
+ E. Senarai Penyeliaan Pelajar Pasca Siswazah, Sarjana Muda dan Diploma (Sila senaraikan nama pelajar,
+tajuk dan peringkat pengajian)
+Supervisor for postgraduate, graduate and diploma students (Please list their names, project title and
+status)
+ Listed 5 years back
+2020/2021
+1. Bachelor Degree- Bonaventure Low Guan Yi, “Classification of EEG Motor Imagery Signal for Robotic
+Wheelchair Directional Control”
+2. Bachelor Degree – Lim Tau Shaun, “Development of An Autonomous Navigation System for a Mobile
+Hexapod”
+3. Bachelor Degree- Tan Kah Ling, “Development Of Tools Sorting System Using Deep Learning Based Object
+Detection”
+4. Master Degree (Co-Supervisor)- Samsiah Binti Md Saleh, “Decisions Making Efficiency Using Fuzzy System
+for Smart Farming Application”
+2022/2023
+1. Bachelor Degree- Nawal Arifah Binti Masri, “Classification of EEG Motor Imagery Signal for Robotic
+Wheelchair Directional Control”
+2. Bachelor Degree- Sureshbarath A/L Pungkavanam, “ROS-2 based Implementation of Autonomous
+Navigation and Obstacle Avoidance for Robotics Wheelchair”
+3. Bachelor Degree- Turki Khaled Habeb Al-Khulaqi, “Development of Vision Based Self Driving Car (Model)
+Using Deep Learning”
+4. Ph.D (External Co-Supervision UTM) – Noor Syazwana Binti Sahar, “Deep Learning Methodologies for EEG
+Task Classification”
+2023/2024
+1. Bachelor Degree – Divian Raj Kumar A/L Balakrishnan, “Defect and Non-Defect Image Classification
+system using In C-Sam Images using Artificial Intelligence Techniques”
+2. Bachelor Degree – Kousellya A/P Prabahkaran, “Investigation On Feasibility Of Image Generation From
+EEG Signal Using Diffusion Model”
+3. Bachelor Degree – Sharvin A/L Subramaniam, “Development Of A 'Nasi Campur' Payment Kiosk For An
+Unmanned Restaurant”
+2024/2025
+1. Bachelor Degree – Clement Chieng Cze, “Visual Simultaneous Localization and Mapping (SLAM) for
+Autonomous Robotic Wheelcahir Navigation”
+2. Bachelor Degree – Pan Zhong Xian, “Learning to Look and Move: ChatGPT and the Perception-Action
+Loop in Wheelchair Navigation”.
+3. Bachelor Degree – Tan Zi Shen, “Development Of Generative Ai Powered Intelligent CCTV System For
+Autonomous Surveillance”
+4. Master Degree (M.Eng) (Main Supervisor) - Suthaggar A/L Elango, “Multi Label Classification Of Appliances
+Load Type Using Deep Learning With Raw And Manual Features”
+5. Master Degree (M.Sc) (Co-Supervisor) - Mohd Haikal Bin Mohd Sa’at - “Integration Artificial Intelligence
+With Conventional X-Ray Inspection For Improved Solder Void Detection In Ssdc Sic Modules”
+2025/2026 - Ongoing
+1. Bachelor Degree – Thomas George A/L Kurian, “Visual Simultaneous Localization and Mapping (SLAM)
+for Autonomous Robotic Wheelcahir Navigation”
+2. Bachelor Degree – Muhammad Aiman Bin Razali, “A Hybrid Cnn-Pid Approach For Steering Angle
+Prediction And Control In A Self-Driving Vehicle”.
+3. Master Degree (Msc) (Main Supervisor) – Humam Nazir, “Energy Forecasting Technique using Deep
+Learning for Electrical Compressor Network In Oil and Gas Facilities”
+
+COPTPA Document
+4
+III. Bidang Penyelidikan Yang Utama
+Main Areas of Research Interest
+Secara umum:
+In general:
+Machine learning, AI, Robotics, Vision and Signal Processing
+Secara khusus
+In specific:
+a. Artificial Neural Networks (ANN)
+b. Application of AI/ML in Engineering
+c. Application of AI/ML in Robotics and Vision
+IV. Projek Penyelidikan Yang dilaksanakan (Sila tulis tajuk, tajaan dan nombor rujukan projek)
+Completed/On-going research project (Please write the title, funder and reference number)
+ Listed 5 years back
+YEAR
+AWARDED TITLE OF PROJECT TYPE OF GRANT AMOUNT (RM) ROLE
+2024
+EFFICIENT SMALL-SCALE
+CHILI GRADING USING
+ARTIFICIAL INTELLIGENCE
+SHORT TERM (UTEM)
+PJP/2024/FTKE/PERINTIS/S
+A0008
+20,000.00 CO-RESEARCHER
+2024
+AN ELECTROMYOGRAPHY
+TIME-FREQUENCY DOMAIN
+FEATURES' FORMULATION
+BASED ON THE
+RELATIONSHIP OF FALLS
+AND INSTABILITY AMONG
+SENIOR CITIZENS
+GERAN
+ANTARABANGSA (INTERN
+ATIONAL – AJMAN
+UNIVERSITY)
+ANTARABANGSA(URMG)-
+AJMAN/2024/FTKE/A0006
+7
+15,803.80 CO-RESEARCHER
+2024
+OPTIMAL ENERGY
+PREDICTION SYSTEM
+SIMULATOR FOR
+COMPRESSORS NETWORK
+IN OIL AND GAS FACILITIES
+GERAN
+INDUSTRI (INDUSTRY/PRIVA
+TE - PETRONAS)
+INDUSTRI/PRSB/2024/FTKM
+/I00099
+288,750.00 CO-RESEARCHER
+2023
+PREDICTIVE MODELLING
+USING AI FOR SIC SOLDER
+INTERFACE AT
+PACKAGING LEVEL
+GERAN
+ANTARABANGSA (INTERN
+ATIONAL)
+ANTARABANGSASCI/2023/FKE/A00056
+215,000.00 CO-RESEARCHER
+2022
+CORN COB GRADE
+SORTING MACHINE AND
+WASTE PACKING SYSTEM
+GERAN
+INDUSTRI (INDUSTRY/PRIVA
+TE)
+INDUSTRI/PSSB/FKE/2022/I
+00083
+30,000.00 CO-RESEARCHER
+2022
+UTEM SMART AERIAL
+SURVEILLANCE SYSTEM:
+DESIGN AND
+IMPLEMENTATION OF
+OBJECT IDENTIFICATION &
+CHARACTERIZATION
+USING ARTIFICIAL
+INTELLIGENCE APPROACH
+TOPDOWN (UTEM) 49,430.00 CO-RESEARCHER
+2022
+GERAN INSENTIF
+PENERBITAN
+JURNAL (UTEM)
+3,000.00 MAIN RESEARCHER
+2021
+AN ADAPTIVE FREQUENCYFREE COMMAND
+SMOOTHING OF CRANE
+SWAY CONTROL WITH
+MULTIMODE DYNAMICS
+GERAN FRGS (NATIONAL)
+ FRGS/1/2021/FKE/F00464 113,600.00 CO-RESEARCHER
+2020
+MULTIPLE CONSTRAINTS
+AUTONOMOUS GUIDANCE
+FOR SMART PESTICIDE
+ROVER SYSTEM (SPRS)
+SHORT TERM (UTEM)
+PJP/2020/FKE/PP/S01744 20,000.00 MAIN RESEARCHER
+COPTPA Document
+5
+V. SENARAI UTAMA PENERBITAN
+List of Major Publication
+Listed 5 years back
+1. Sahar, N. S., Safri, N. M., Izzuddin, T., Zakaria, N. A., & Kadir, N. A. A. (2025). Encoding
+analysis in inhibition response classification using Sinc-EEGNet and partial directed coherence.
+Neural Computing and Applications, 1–21.
+2. Sa’at, M. H. M., Jamaluddin, M. H., Ameerdin, M. I. M., Shukor, A. Z., Izuddin, T. A., Ibrahim,
+M. M., & Sukiman, M. S. (2024). Integration Artificial Intelligence with Conventional X-Ray
+Inspection for Improved Solder Void Detection in SSDC SiC Modules. 2024 IEEE International
+Conference on Artificial Intelligence in Engineering and Technology (IICAIET), 530–534. IEEE.
+3. Al-Haimi, H. A., Sani, Z. M., Izzudin, T. A., Ab Ghani, H., Azizan, A., & Karim, S. A. A. (2023).
+Traffic light counter detection comparison using you only look oncev3 and you only look oncev5
+for version 3 and 5. IAES International Journal of Artificial Intelligence (IJ-AI).
+4. Quan, K. J., Sani, Z. M., Izzuddin, T. B. A., Azizan, A., & Ghani, H. A. (2023). Toddler monitoring
+system in vehicle using single shot detector-mobilenet and single shot detector-inception on
+Jetson Nano. IAES International Journal of Artificial Intelligence.
+5. Rahim, N. A. A., Norasikin, M. A., Izzuddin, T. A., Daud, W. M. B. W., Rasid, A. F. A., Anuar,
+N. F. B. W., & Others. (2023). A HIGH ACCURACY PEST DETECTION METHOD USING
+NAIVE MACHINE LERANING METHOD. Journal of Advanced Computing Technology and
+Application (JACTA), 5(2), 31–47.
+6. Sahar, N. S., Safri, N. M., Izzuddin, T., & Zakaria, N. A. (2023). Classification of Inhibition
+Response Task from Electroencephalogram Signals Using One-Dimensional Convolution
+Neural Network. International Conference on Biomedical Engineering of the Universiti Malaysia
+Perlis, 256–267. Springer Nature Switzerland Cham.
+7. Abu, N. S., Bukhari, W. M., Ong, C. H., Kassim, A. M., Izzuddin, T. A., Sukhaimie, M. N., …
+Rasid, A. F. A. (2022). Internet of things applications in precision agriculture: A review. Journal
+of Robotics and Control (JRC), 3(3), 338–347.
+8. Izzuddin, Tarmizi Ahmad. (2022). Compact and interpretable convolutional neural network
+architecture for electroencephalogram based motor imagery decoding (Doctoral dissertation).
+Universiti Teknologi Malaysia.
+9. Izzuddin, Tarmizi Ahmad, Safri, N. M., Munn, O. S., Sani, Z. M., & Nasir, M. N. M. (2022).
+Classification of Domestic Electrical Appliances Based on Starting Transient Using Artificial
+Intelligence Methods. Proceedings of the 6th International Conference on Electrical, Control and
+Computer Engineering: InECCE2021, Kuantan, Pahang, Malaysia, 23rd August, 455–466.
+Springer Singapore Singapore.
+10. Sani, Z. M., Saari, M. I. F. B., & Izzudin, T. A. (2022). Traffic Light (Circle) Detection and
+Recognition Using YOLO and Image Processing Technique. Proceedings of the 6th
+International Conference on Electrical, Control and Computer Engineering: InECCE2021,
+Kuantan, Pahang, Malaysia, 23rd August, 833–843. Springer Singapore Singapore.
+11. Abdul Aziz, M. F., Bukhari, W. M., Sukhaimie, M. N., Izzuddin, T. A., Norasikin, M. A., Rasid,
+A. F. A., & Bazilah, N. F. (2021). Development of smart sorting machine using artificial
+intelligence for chili fertigation industries. Journal of Automation Mobile Robotics and Intelligent
+Systems, 15(4), 44–52.
+12. Aziz, M. F. A., Bukhari, W. M., Sukhaimi, M. N., Izzuddin, T. A., Norasikin, M. A., Rasid, A. F.
+A., & Bazilah, N. F. (2021). Chili Crop Segregation System Design and Development Strategies.
+Journal of Engineering and Technology (JET), 12(2), 1–22.
+13. Izzuddin, Tarmizi Ahmad, Safri, N. M., & Othman, M. A. (2021a). Compact convolutional neural
+network (CNN) based on SincNet for end-to-end motor imagery decoding and analysis.
+Biocybernetics and Biomedical Engineering, 41(4), 1629–1645.
+14. Izzuddin, Tarmizi Ahmad, Safri, N. M., & Othman, M. A. (2021b). Mental imagery classification
+using one-dimensional convolutional neural network for target selection in single-channel BCIcontrolled mobile robot. Neural Computing and Applications, 33(11), 6233–6246.
+15. Sani, Z. M., Chuan, L. J., Izzudin, T. A., Ghani, H. A., & Martin, A. (2021). Urban Road Marker
+Classification Using Histogram of Oriented Gradient and Local Binary Pattern with Artificial
+Neural Network. International Conference on Emerging Technologies and Intelligent Systems,
+126–135. Springer International Publishing Cham.
+16. Fuad, M. A. M., Ab Ghani, M. R., Ghazali, R., Izzuddin, T. A., Sulaima, M. F., Jano, Z., &
+Sutikno, T. (2019). Detection of Aedes aegypti larvae using single shot multibox detector with
+transfer learning. Bulletin of Electrical Engineering and Informatics, 8(2), 514–518.
+17. Izzuddin, T. A., Jali, M. H., Abdullah, A. R., & Sudirman, R. (2018). Gaze Tracking Algorithm
+Using Night Vision Camera. Indonesian Journal of Electrical Engineering and Computer
+Science, 9(2), 438–446.
+COPTPA Document
+6
+18. Izzuddin, T. A., Johari, M. A., Rashid, M. Z. A., & Jali, M. H. (2018). SMART IRRIGATION
+USING FUZZY LOGIC METHOD.
+19. Izzuddin, T. A., Single Channel Electroencephalogram (EEG) Brain Computer Interface (BCI)
+Feature Extraction and Quantization Method for Support Vector Machine Classification. (2018).
+International Journal of Engineering & Technology, 7(4), 2095–2099.
+20. Bohari, Z. H., Atira, N. N., Jali, M. H., Sulaima, M. F., Izzuddin, T. A., & Baharom, M. F. (2017).
+Technical feasible study for future solar thermal steam power station in Malaysia. IOP
+Conference Series: Materials Science and Engineering, 241, 012031. IOP Publishing.
+.
+VI. Lain-lain (Penganugerahan, pertandingan yang dimenangi dll)
+Miscellaneous (Awards, contest won etc.)
+University Award
+i. Anugerah Perkhidmatan Cermerlang (APC) , UTeM – 2016
+Competition Award
+i. Best Green Technology Award by Japanese Intellectual Propoerty Association, MTE 2016,
+Product : Microbial FC.
+ii. Special Award, i-ENVEX 2015. Product: Dengue Control System Using Mosquito Larvae Killer
+at Storage Tank
+iii. Gold Medal, MTE 2016, Product : Mind Gyro X
+iv. Gold Medal, MIIEX 2015, Product: A novel Vehicular Heatstroke Avoidance System for Infant
+and Children
+v. Gold Medal, UTEMEX 2015, Product: Blind Spot Detector for Deaf and Inert Drivers
+vi. Gold Medal, UTEMEX 2015, Product: Mind Gyro X
+vii. Gold Medal, ITEX 2015. Product: Therapeutic Aid Device for Autism Children.
+viii. Gold Medal, i-ENVEX 2015. Product: TADA-Chi
+ix. Silver Medal, MTE 2016, Product : Microbial FC.
+x. Silver Medal, MIIEX 2015, Product: Smart Breast Milk Incubator
+xi. Silver Medal, MIIEX 2015, Product: Development of Microbial Sewage Treatment Plan
+Generation
+xii. Silver Medal, UTEMEX 2015, Product: Vehicular Heatstroke Avoidance System for Children
+xiii. Silver Medal, UTEMEX 2015, Product: Convenience Lighting System for Human Practice
+xiv. Silver Medal, i-ENVEX 2015. Product: Reat Hand
+xv. Silver Medal, i-COMPEX 2015. Product: Novel Aedes Larvae Detector System
+xvi. Silver Medal, i-COMPEX 2015. Product: Wearable Miniature Radar System for Blind People
+Assist
+xvii. Bronze Medal, MTE 2016 Product : Blinsdpot Detettor for Inert & Deaf.
+xviii. Bronze Medal, UTEMEX 2015, Product: Smart Portable Breast Milk Storage
+xix. Bronze Medal, UTEMEX 2015, Product: Physiotheraphy Assistive Device for Arm
+Rehablitation
+xx. Bronze Medal, UTEMEX 2015, Product: Solar Tracker with Automated Module Cleaning
+System
+xxi. Bronze Medal, i-ENVEX 2015. Product: Perpetual Mechanical Energy Generator (P-MEG)
+xxii. Bronze Medal, MTE 2015. Product: Automatic Aedes Larvae Control System

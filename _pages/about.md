@@ -1,21 +1,33 @@
 ---
 permalink: /
-title: "My Academic Pages"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<br>
 
-📝 Biography 
-======
-<div style="text-align: justify">Dr. Tarmizi Izzuddin joined UTeM in 2010 after graduating from Shimane University (Japan) and currently serving as a lecturer in the Faculty of Electrical Technolgy and Engineering (FKE), Mechatronics Department. He obtained his Ph.D. from Universiti Teknologi Malaysia (UTM) and also currently has several AI-related professional certificates from industries such as IBM, Skymind and Nvidia. His research interests include artificial neural networks, robotics, and brain-computer interface. </div>  
-<br>
+**Tarmizi Bin Ahmad Izzuddin** is a Senior Lecturer at the Universiti Teknikal Malaysia Melaka (UTeM). He holds a Ph.D. in Electrical Engineering from Universiti Teknologi Malaysia (UTM). His research primarily focuses on Artificial Intelligence, Machine Learning, Robotics, and Vision/Signal Processing.
 
-🎓 Education
-======
-* Associate Degree - Electronic Control System Engineering - Kumamoto National College of Technology (Japan)
-* B.sc & Eng - Electronic Control System Engineering - Shimane University  (Japan)
-* M.Eng - Industrial Electronic and Control - University Malaya UM
-* Phd - Electrical Engineering - Universiti Teknologi Malaysia UTM
+## Education
+* **Ph.D.** in Electrical Engineering, Universiti Teknologi Malaysia (UTM), 2021.
+    * Thesis: *Compact and Interpretable Convolutional Neural Network Architecture for Electroencephalogram Based Motor Imagery Decoding*.
+* **M.Eng** in Industrial Electronic and Control, University Malaya (UM), 2012.
+* **B.Sc. & Eng.** in Electronic Control System Engineering, Shimane University (Japan), 2010.
+* **Associate Degree**, Electronic Control System Engineering, Kumamoto National College of Technology (Japan), 2008.
+
+## Research Interests
+* **General**: Machine learning, AI, Robotics, Vision and Signal Processing.
+* **Specific**: 
+    * Artificial Neural Networks (ANN)
+    * Application of AI/ML in Engineering
+    * Application of AI/ML in Robotics and Vision
+
+## Awards
+* **Best Green Technology Award**, Japanese Intellectual Property Association, MTE 2016.
+* **Special Award**, i-ENVEX 2015.
+* **Gold Medal**, MTE 2016 (Mind Gyro X).
+* **Gold Medal**, ITEX 2015 (Therapeutic Aid Device for Autism Children).
+* **Gold Medal**, UTEMEX 2015 (Mind Gyro X, Blind Spot Detector).
+* **Anugerah Perkhidmatan Cemerlang (APC)**, UTeM, 2016.
