@@ -1,6 +1,6 @@
 ---
 title: "Natural Language Robot Control with Gemini API & ROS2-MCP"
-excerpt: "Undergraduate AI students developed a system to command a Yahboom Micro-ROS Robot through natural language, bridging LLMs and physical hardware using Gemini API and ROS2-MCP servers.<br/><img src='/images/500x300.png'>"
+excerpt: "Undergraduate AI students developed a system to command a Yahboom Micro-ROS Robot through natural language, bridging LLMs and physical hardware using Gemini API and ROS2-MCP servers.<br/><img src='/images/llm-robot-demo-thumbnail.jpg'>"
 collection: portfolio
 ---
 
