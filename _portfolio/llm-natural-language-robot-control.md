@@ -8,7 +8,7 @@ collection: portfolio
 
 This project was developed by Undergraduate AI students in the **Faculty of Artificial Intelligence and Cybersecurity (FAIX)**, UTeM, as part of their **BAXU 3923: Workshop 2** course. The team successfully built a system that commands a **Yahboom Micro-ROS Robot** through natural language, bridging the gap between Large Language Models and physical hardware.
 
-🔗 **GitHub Repository:** [Project Source Code](https://github.com/TarmiziIzzuddin/llm-ros2-micro-robot) *(link to be confirmed)*
+🔗 **GitHub Repository:** [WorkShopII-MicroROS-Robot-Group-31](https://github.com/xace0326/WorkShopII-MicroROS-Robot-Group-31/tree/main)
 
 ## Technical Breakdown
 
