@@ -31,3 +31,6 @@ redirect_from:
 * **Gold Medal**, ITEX 2015 (Therapeutic Aid Device for Autism Children).
 * **Gold Medal**, UTEMEX 2015 (Mind Gyro X, Blind Spot Detector).
 * **Anugerah Perkhidmatan Cemerlang (APC)**, UTeM, 2016.
+
+## Appointments
+* **Duta AI (AI Ambassador)**, Akademi Kepimpinan Pendidikan Tinggi (AKEPT), Kementerian Pendidikan Tinggi Malaysia, 15 May 2026 – 31 December 2027.

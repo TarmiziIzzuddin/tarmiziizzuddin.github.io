@@ -55,5 +55,6 @@ redirect_from:
   
 👨🏻‍💼 Service and leadership
 ======
+* **Duta AI (AI Ambassador)**, Akademi Kepimpinan Pendidikan Tinggi (AKEPT), Kementerian Pendidikan Tinggi Malaysia (15 May 2026 – 31 Dec 2027)
 * Currently head of Rehabilitation and Assistive Technology (REAT) research group under Centre of Robotics, Instrumentation and Automation (CERIA), UTeM.
 * Program Commitee Member, 5th International Conference on Deep Learning Theory and Applications, 10th -11th July 2024, Dijon France
