@@ -10,6 +10,8 @@ redirect_from:
 
 **Tarmizi Bin Ahmad Izzuddin** is a Senior Lecturer at the Universiti Teknikal Malaysia Melaka (UTeM). He holds a Ph.D. in Electrical Engineering from Universiti Teknologi Malaysia (UTM). His research primarily focuses on Artificial Intelligence, Machine Learning, Robotics, and Vision/Signal Processing.
 
+*Faculty: Fakulti Kecerdasan Buatan dan Keselamatan Siber (FAIX), UTeM.*
+
 ## Education
 * **Ph.D.** in Electrical Engineering, Universiti Teknologi Malaysia (UTM), 2021.
     * Thesis: *Compact and Interpretable Convolutional Neural Network Architecture for Electroencephalogram Based Motor Imagery Decoding*.
@@ -34,3 +36,4 @@ redirect_from:
 
 ## Appointments
 * **Duta AI (AI Ambassador)**, Akademi Kepimpinan Pendidikan Tinggi (AKEPT), Kementerian Pendidikan Tinggi Malaysia, 15 May 2026 – 31 December 2027.
+* **Faculty Member**, Fakulti Kecerdasan Buatan dan Keselamatan Siber (FAIX), UTeM.
