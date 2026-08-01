@@ -35,5 +35,6 @@ redirect_from:
 * **Anugerah Perkhidmatan Cemerlang (APC)**, UTeM, 2016.
 
 ## Appointments
+* **Google Ambassador**, Ministry of Higher Education (MoHE) Malaysia, 25 May 2026.
 * **Duta AI (AI Ambassador)**, Akademi Kepimpinan Pendidikan Tinggi (AKEPT), Kementerian Pendidikan Tinggi Malaysia, 15 May 2026 – 31 December 2027.
 * **Faculty Member**, Fakulti Kecerdasan Buatan dan Keselamatan Siber (FAIX), UTeM.
