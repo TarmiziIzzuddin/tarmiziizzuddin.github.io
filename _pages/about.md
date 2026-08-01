@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+description: "Tarmizi Bin Ahmad Izzuddin — Senior Lecturer at Universiti Teknikal Malaysia Melaka (UTeM). Ph.D. Electrical Engineering (UTM). Research in Artificial Intelligence, Machine Learning, Robotics, Vision and Signal Processing."
+excerpt: "Tarmizi Bin Ahmad Izzuddin, Senior Lecturer at UTeM. AI, Machine Learning, Robotics, and EEG-based motor imagery decoding research."
 author_profile: true
 redirect_from: 
   - /about/
